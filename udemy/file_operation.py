@@ -1,0 +1,5 @@
+f = open('sample.txt', mode= 'w', encoding='utf-8')
+print(f)
+print(type(f))
+#f.write('Good morning\n')
+#f.close()
